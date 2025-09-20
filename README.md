@@ -83,7 +83,7 @@ Many restaurants support online ordering, but distribution varies by type.
 
 Clone this repository:
 
-git clone https://github.com/<username>/Zomato-Data-Analysis-Using-Python.git
+git clone https://github.com/username/Zomato-Data-Analysis-Using-Python.git
 
 
 Install required libraries:
